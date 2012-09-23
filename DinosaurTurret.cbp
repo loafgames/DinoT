@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DinosaurTurret" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DinosaurTurret" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DinosaurTurret" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="sfml-audio" />
+			<Add library="sfml-graphics" />
+			<Add library="sfml-network" />
+			<Add library="sfml-system" />
+			<Add library="sfml-window" />
+		</Linker>
+		<Unit filename="cb.bmp" />
+		<Unit filename="include/H.h" />
+		<Unit filename="include/HGame.h" />
+		<Unit filename="include/HResources.h" />
+		<Unit filename="include/HRoom.h" />
+		<Unit filename="include/HScreen.h" />
+		<Unit filename="include/LDraw.h" />
+		<Unit filename="include/Obj.h" />
+		<Unit filename="include/ObjDino.h" />
+		<Unit filename="include/ObjGame.h" />
+		<Unit filename="include/ObjTileWater.h" />
+		<Unit filename="include/Room.h" />
+		<Unit filename="include/Spr.h" />
+		<Unit filename="include/SprDino.h" />
+		<Unit filename="include/SprTileWater.h" />
+		<Unit filename="src/HGame.cpp" />
+		<Unit filename="src/HResources.cpp" />
+		<Unit filename="src/HRoom.cpp" />
+		<Unit filename="src/HScreen.cpp" />
+		<Unit filename="src/LDraw.cpp" />
+		<Unit filename="src/Obj.cpp" />
+		<Unit filename="src/ObjDino.cpp" />
+		<Unit filename="src/ObjGame.cpp" />
+		<Unit filename="src/ObjTileWater.cpp" />
+		<Unit filename="src/Room.cpp" />
+		<Unit filename="src/Spr.cpp" />
+		<Unit filename="src/SprDino.cpp" />
+		<Unit filename="src/SprTileWater.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1348431713 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/HGame.cpp
+	"../include/H.h"
+	"SFML/Graphics.hpp"
+	"LDraw.h"
+	<algorithm>
+	<time.h>
+	"ObjGame.h"
+
+1347653124 /home/thatsnail/Desktop/C++/DinosaurTurret/include/H.h
+	"HGame.h"
+	"HScreen.h"
+	"HResources.h"
+	"HRoom.h"
+
+1347653124 /home/thatsnail/Desktop/C++/DinosaurTurret/include/HGame.h
+	<vector>
+	<queue>
+	"Obj.h"
+
+1348440889 /home/thatsnail/Desktop/C++/DinosaurTurret/include/Obj.h
+	"Spr.h"
+
+1347901914 /home/thatsnail/Desktop/C++/DinosaurTurret/include/Spr.h
+	<SFML/Graphics.hpp>
+
+1347903675 /home/thatsnail/Desktop/C++/DinosaurTurret/include/HScreen.h
+	"SFML/Graphics.hpp"
+
+1348432381 /home/thatsnail/Desktop/C++/DinosaurTurret/include/HResources.h
+	"Room.h"
+
+1347900835 /home/thatsnail/Desktop/C++/DinosaurTurret/include/Room.h
+	"Obj.h"
+	<vector>
+
+1347653124 /home/thatsnail/Desktop/C++/DinosaurTurret/include/HRoom.h
+	"Room.h"
+
+1347903058 /home/thatsnail/Desktop/C++/DinosaurTurret/include/LDraw.h
+	"HScreen.h"
+	"Spr.h"
+
+1348432373 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/HResources.cpp
+	"HResources.h"
+	<fstream>
+	<string>
+
+1347656018 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/HRoom.cpp
+	"HRoom.h"
+	"HGame.h"
+
+1348430683 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/HScreen.cpp
+	"HScreen.h"
+
+1347903402 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/LDraw.cpp
+	"LDraw.h"
+
+1348441206 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/Obj.cpp
+	"Obj.h"
+	"HGame.h"
+	<vector>
+	<cmath>
+	"LDraw.h"
+
+1347903479 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/Room.cpp
+	"Room.h"
+
+1348441420 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/Spr.cpp
+	"Spr.h"
+
+1347903573 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/main.cpp
+	"HGame.h"
+	<SFML/Graphics.hpp>
+
+1348441348 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/SprDino.cpp
+	"SprDino.h"
+	"HResources.h"
+
+1348431045 /home/thatsnail/Desktop/C++/DinosaurTurret/include/SprDino.h
+	<Spr.h>
+
+1348441020 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/ObjTileWater.cpp
+	"ObjTileWater.h"
+	"SprTileWater.h"
+
+1348431465 /home/thatsnail/Desktop/C++/DinosaurTurret/include/ObjTileWater.h
+	<Obj.h>
+
+1348441342 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/SprTileWater.cpp
+	"SprTileWater.h"
+	"HResources.h"
+
+1348431254 /home/thatsnail/Desktop/C++/DinosaurTurret/include/SprTileWater.h
+	<Spr.h>
+
+1348441758 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/ObjGame.cpp
+	"ObjGame.h"
+	"ObjTileWater.h"
+	"HScreen.h"
+	<cstdlib>
+	"ObjDino.h"
+
+1348431663 /home/thatsnail/Desktop/C++/DinosaurTurret/include/ObjGame.h
+	<Obj.h>
+
+1348441662 source:/home/thatsnail/Desktop/C++/DinosaurTurret/src/ObjDino.cpp
+	"ObjDino.h"
+	"SprDino.h"
+	"HScreen.h"
+
+1348441823 /home/thatsnail/Desktop/C++/DinosaurTurret/include/ObjDino.h
+	<Obj.h>
+

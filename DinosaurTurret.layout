@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include/HResources.h" open="0" top="0" tabpos="0">
+		<Cursor position="183" topLine="0" />
+	</File>
+	<File name="include/Obj.h" open="0" top="0" tabpos="0">
+		<Cursor position="880" topLine="45" />
+	</File>
+	<File name="src/HGame.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="460" topLine="3" />
+	</File>
+	<File name="src/HScreen.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="221" topLine="0" />
+	</File>
+	<File name="src/Obj.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="990" topLine="67" />
+	</File>
+	<File name="src/ObjDino.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="352" topLine="6" />
+	</File>
+	<File name="src/ObjGame.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="420" topLine="0" />
+	</File>
+	<File name="src/ObjTileWater.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="223" topLine="0" />
+	</File>
+	<File name="src/SprDino.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="85" topLine="0" />
+	</File>
+	<File name="src/SprTileWater.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="85" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
